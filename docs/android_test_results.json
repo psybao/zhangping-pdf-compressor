@@ -1,0 +1,286 @@
+{
+  "passed": true,
+  "rows": [
+    {
+      "file": "text",
+      "mode": "HIGH",
+      "before": 1406,
+      "after": 1288,
+      "met": true,
+      "attempts": 1
+    },
+    {
+      "file": "text",
+      "mode": "MEDIUM",
+      "before": 1406,
+      "after": 1288,
+      "met": true,
+      "attempts": 1
+    },
+    {
+      "file": "text",
+      "mode": "LOW",
+      "before": 1406,
+      "after": 1288,
+      "met": true,
+      "attempts": 1
+    },
+    {
+      "file": "text",
+      "mode": "500KB",
+      "before": 1406,
+      "after": 1288,
+      "met": true,
+      "attempts": 1
+    },
+    {
+      "file": "text",
+      "mode": "1MB",
+      "before": 1406,
+      "after": 1288,
+      "met": true,
+      "attempts": 1
+    },
+    {
+      "file": "scan",
+      "mode": "HIGH",
+      "before": 12806133,
+      "after": 1217317,
+      "met": true,
+      "attempts": 1
+    },
+    {
+      "file": "scan",
+      "mode": "MEDIUM",
+      "before": 12806133,
+      "after": 517343,
+      "met": true,
+      "attempts": 1
+    },
+    {
+      "file": "scan",
+      "mode": "LOW",
+      "before": 12806133,
+      "after": 159528,
+      "met": true,
+      "attempts": 1
+    },
+    {
+      "file": "scan",
+      "mode": "500KB",
+      "before": 12806133,
+      "after": 300738,
+      "met": true,
+      "attempts": 5
+    },
+    {
+      "file": "scan",
+      "mode": "1MB",
+      "before": 12806133,
+      "after": 806932,
+      "met": true,
+      "attempts": 4
+    },
+    {
+      "file": "mixed",
+      "mode": "HIGH",
+      "before": 12806225,
+      "after": 1217409,
+      "met": true,
+      "attempts": 1
+    },
+    {
+      "file": "mixed",
+      "mode": "MEDIUM",
+      "before": 12806225,
+      "after": 517435,
+      "met": true,
+      "attempts": 1
+    },
+    {
+      "file": "mixed",
+      "mode": "LOW",
+      "before": 12806225,
+      "after": 159620,
+      "met": true,
+      "attempts": 1
+    },
+    {
+      "file": "mixed",
+      "mode": "500KB",
+      "before": 12806225,
+      "after": 300830,
+      "met": true,
+      "attempts": 5
+    },
+    {
+      "file": "mixed",
+      "mode": "1MB",
+      "before": 12806225,
+      "after": 807024,
+      "met": true,
+      "attempts": 4
+    },
+    {
+      "file": "large",
+      "mode": "HIGH",
+      "before": 35266090,
+      "after": 1232185,
+      "met": true,
+      "attempts": 1
+    },
+    {
+      "file": "large",
+      "mode": "MEDIUM",
+      "before": 35266090,
+      "after": 521681,
+      "met": true,
+      "attempts": 1
+    },
+    {
+      "file": "large",
+      "mode": "LOW",
+      "before": 35266090,
+      "after": 163734,
+      "met": true,
+      "attempts": 1
+    },
+    {
+      "file": "large",
+      "mode": "500KB",
+      "before": 35266090,
+      "after": 306254,
+      "met": true,
+      "attempts": 5
+    },
+    {
+      "file": "large",
+      "mode": "1MB",
+      "before": 35266090,
+      "after": 813852,
+      "met": true,
+      "attempts": 4
+    },
+    {
+      "file": "multipage",
+      "mode": "HIGH",
+      "before": 12808729,
+      "after": 1219888,
+      "met": true,
+      "attempts": 1
+    },
+    {
+      "file": "multipage",
+      "mode": "MEDIUM",
+      "before": 12808729,
+      "after": 519914,
+      "met": true,
+      "attempts": 1
+    },
+    {
+      "file": "multipage",
+      "mode": "LOW",
+      "before": 12808729,
+      "after": 162099,
+      "met": true,
+      "attempts": 1
+    },
+    {
+      "file": "multipage",
+      "mode": "500KB",
+      "before": 12808729,
+      "after": 303309,
+      "met": true,
+      "attempts": 5
+    },
+    {
+      "file": "multipage",
+      "mode": "1MB",
+      "before": 12808729,
+      "after": 809503,
+      "met": true,
+      "attempts": 4
+    },
+    {
+      "file": "transparency",
+      "mode": "HIGH",
+      "before": 13802,
+      "after": 13679,
+      "met": true,
+      "attempts": 1
+    },
+    {
+      "file": "transparency",
+      "mode": "MEDIUM",
+      "before": 13802,
+      "after": 13679,
+      "met": true,
+      "attempts": 1
+    },
+    {
+      "file": "transparency",
+      "mode": "LOW",
+      "before": 13802,
+      "after": 13679,
+      "met": true,
+      "attempts": 1
+    },
+    {
+      "file": "transparency",
+      "mode": "500KB",
+      "before": 13802,
+      "after": 13679,
+      "met": true,
+      "attempts": 1
+    },
+    {
+      "file": "transparency",
+      "mode": "1MB",
+      "before": 13802,
+      "after": 13679,
+      "met": true,
+      "attempts": 1
+    },
+    {
+      "file": "compressed",
+      "mode": "HIGH",
+      "before": 17962,
+      "after": 15965,
+      "met": true,
+      "attempts": 1
+    },
+    {
+      "file": "compressed",
+      "mode": "MEDIUM",
+      "before": 17962,
+      "after": 13987,
+      "met": true,
+      "attempts": 1
+    },
+    {
+      "file": "compressed",
+      "mode": "LOW",
+      "before": 17962,
+      "after": 13679,
+      "met": true,
+      "attempts": 1
+    },
+    {
+      "file": "compressed",
+      "mode": "500KB",
+      "before": 17962,
+      "after": 17843,
+      "met": true,
+      "attempts": 1
+    },
+    {
+      "file": "compressed",
+      "mode": "1MB",
+      "before": 17962,
+      "after": 17843,
+      "met": true,
+      "attempts": 1
+    }
+  ],
+  "checks": "35 actual compressions, page boxes, text extraction equality, Android PdfRenderer open\/render, encrypted\/empty\/broken\/signed rejection, target too small, units"
+}

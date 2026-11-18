@@ -1,0 +1,107 @@
+[
+  {
+    "file": "scan",
+    "target": null,
+    "seconds": 3.3562794999998005,
+    "attempts": 1,
+    "bytes": 1658118,
+    "met": true,
+    "functions": [
+      {
+        "function": "validate",
+        "calls": 1,
+        "cumulative_seconds": 0.0025746000000000002
+      },
+      {
+        "function": "fingerprint",
+        "calls": 2,
+        "cumulative_seconds": 0.06416380000000001
+      },
+      {
+        "function": "_encode_jpeg",
+        "calls": 6,
+        "cumulative_seconds": 0.2071096
+      },
+      {
+        "function": "psnr",
+        "calls": 16,
+        "cumulative_seconds": 0.1266939
+      },
+      {
+        "function": "_encode_jp2",
+        "calls": 2,
+        "cumulative_seconds": 1.13937
+      }
+    ]
+  },
+  {
+    "file": "scan",
+    "target": 2097152,
+    "seconds": 47.8164328999992,
+    "attempts": 12,
+    "bytes": 1658118,
+    "met": true,
+    "functions": [
+      {
+        "function": "validate",
+        "calls": 12,
+        "cumulative_seconds": 0.14014220000000002
+      },
+      {
+        "function": "fingerprint",
+        "calls": 2,
+        "cumulative_seconds": 0.0755128
+      },
+      {
+        "function": "_encode_jpeg",
+        "calls": 64,
+        "cumulative_seconds": 2.3009238
+      },
+      {
+        "function": "psnr",
+        "calls": 212,
+        "cumulative_seconds": 1.5974509000000001
+      },
+      {
+        "function": "_encode_jp2",
+        "calls": 42,
+        "cumulative_seconds": 18.6434848
+      }
+    ]
+  },
+  {
+    "file": "mixed",
+    "target": 512000,
+    "seconds": 47.646754399999736,
+    "attempts": 12,
+    "bytes": 414396,
+    "met": true,
+    "functions": [
+      {
+        "function": "validate",
+        "calls": 12,
+        "cumulative_seconds": 0.13912270000000002
+      },
+      {
+        "function": "fingerprint",
+        "calls": 2,
+        "cumulative_seconds": 0.0622479
+      },
+      {
+        "function": "_encode_jpeg",
+        "calls": 64,
+        "cumulative_seconds": 2.2910932
+      },
+      {
+        "function": "psnr",
+        "calls": 212,
+        "cumulative_seconds": 1.5924031
+      },
+      {
+        "function": "_encode_jp2",
+        "calls": 42,
+        "cumulative_seconds": 18.6165925
+      }
+    ]
+  }
+]

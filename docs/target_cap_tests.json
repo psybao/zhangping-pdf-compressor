@@ -1,0 +1,26 @@
+{
+  "passed": true,
+  "target": 2097152,
+  "rows": [
+    {
+      "file": "text",
+      "preview": 1308,
+      "range_max": 1406,
+      "actual": 1015
+    },
+    {
+      "file": "scan",
+      "preview": 702665,
+      "range_max": 913464,
+      "actual": 1658117
+    },
+    {
+      "file": "mixed",
+      "preview": 702750,
+      "range_max": 913575,
+      "actual": 1658193
+    }
+  ],
+  "unmet_refused": true,
+  "actual_bytes_rechecked": true
+}

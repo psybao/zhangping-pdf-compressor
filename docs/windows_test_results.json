@@ -1,0 +1,303 @@
+{
+  "passed": true,
+  "seconds": 116.71,
+  "rows": [
+    {
+      "file": "text",
+      "mode": "HIGH",
+      "before": 1406,
+      "after": 1015,
+      "met": true,
+      "attempts": 1
+    },
+    {
+      "file": "text",
+      "mode": "MEDIUM",
+      "before": 1406,
+      "after": 1015,
+      "met": true,
+      "attempts": 1
+    },
+    {
+      "file": "text",
+      "mode": "LOW",
+      "before": 1406,
+      "after": 1015,
+      "met": true,
+      "attempts": 1
+    },
+    {
+      "file": "text",
+      "mode": "target_512000",
+      "before": 1406,
+      "after": 1015,
+      "met": true,
+      "attempts": 1
+    },
+    {
+      "file": "text",
+      "mode": "target_1048576",
+      "before": 1406,
+      "after": 1015,
+      "met": true,
+      "attempts": 1
+    },
+    {
+      "file": "scan",
+      "mode": "HIGH",
+      "before": 12806133,
+      "after": 6613163,
+      "met": true,
+      "attempts": 1
+    },
+    {
+      "file": "scan",
+      "mode": "MEDIUM",
+      "before": 12806133,
+      "after": 1658117,
+      "met": true,
+      "attempts": 1
+    },
+    {
+      "file": "scan",
+      "mode": "LOW",
+      "before": 12806133,
+      "after": 482298,
+      "met": true,
+      "attempts": 1
+    },
+    {
+      "file": "scan",
+      "mode": "target_512000",
+      "before": 12806133,
+      "after": 414320,
+      "met": true,
+      "attempts": 4
+    },
+    {
+      "file": "scan",
+      "mode": "target_1048576",
+      "before": 12806133,
+      "after": 1032587,
+      "met": true,
+      "attempts": 5
+    },
+    {
+      "file": "mixed",
+      "mode": "HIGH",
+      "before": 12806225,
+      "after": 6613239,
+      "met": true,
+      "attempts": 1
+    },
+    {
+      "file": "mixed",
+      "mode": "MEDIUM",
+      "before": 12806225,
+      "after": 1658193,
+      "met": true,
+      "attempts": 1
+    },
+    {
+      "file": "mixed",
+      "mode": "LOW",
+      "before": 12806225,
+      "after": 482374,
+      "met": true,
+      "attempts": 1
+    },
+    {
+      "file": "mixed",
+      "mode": "target_512000",
+      "before": 12806225,
+      "after": 414396,
+      "met": true,
+      "attempts": 4
+    },
+    {
+      "file": "mixed",
+      "mode": "target_1048576",
+      "before": 12806225,
+      "after": 1032663,
+      "met": true,
+      "attempts": 5
+    },
+    {
+      "file": "large",
+      "mode": "HIGH",
+      "before": 35266090,
+      "after": 3448353,
+      "met": true,
+      "attempts": 1
+    },
+    {
+      "file": "large",
+      "mode": "MEDIUM",
+      "before": 35266090,
+      "after": 1621367,
+      "met": true,
+      "attempts": 1
+    },
+    {
+      "file": "large",
+      "mode": "LOW",
+      "before": 35266090,
+      "after": 478700,
+      "met": true,
+      "attempts": 1
+    },
+    {
+      "file": "large",
+      "mode": "target_512000",
+      "before": 35266090,
+      "after": 410493,
+      "met": true,
+      "attempts": 4
+    },
+    {
+      "file": "large",
+      "mode": "target_1048576",
+      "before": 35266090,
+      "after": 1019700,
+      "met": true,
+      "attempts": 5
+    },
+    {
+      "file": "multipage",
+      "mode": "HIGH",
+      "before": 12808729,
+      "after": 6614311,
+      "met": true,
+      "attempts": 1
+    },
+    {
+      "file": "multipage",
+      "mode": "MEDIUM",
+      "before": 12808729,
+      "after": 1659265,
+      "met": true,
+      "attempts": 1
+    },
+    {
+      "file": "multipage",
+      "mode": "LOW",
+      "before": 12808729,
+      "after": 483446,
+      "met": true,
+      "attempts": 1
+    },
+    {
+      "file": "multipage",
+      "mode": "target_512000",
+      "before": 12808729,
+      "after": 415468,
+      "met": true,
+      "attempts": 4
+    },
+    {
+      "file": "multipage",
+      "mode": "target_1048576",
+      "before": 12808729,
+      "after": 1033735,
+      "met": true,
+      "attempts": 5
+    },
+    {
+      "file": "transparency",
+      "mode": "HIGH",
+      "before": 13802,
+      "after": 11194,
+      "met": true,
+      "attempts": 1
+    },
+    {
+      "file": "transparency",
+      "mode": "MEDIUM",
+      "before": 13802,
+      "after": 11194,
+      "met": true,
+      "attempts": 1
+    },
+    {
+      "file": "transparency",
+      "mode": "LOW",
+      "before": 13802,
+      "after": 11194,
+      "met": true,
+      "attempts": 1
+    },
+    {
+      "file": "transparency",
+      "mode": "target_512000",
+      "before": 13802,
+      "after": 11210,
+      "met": true,
+      "attempts": 1
+    },
+    {
+      "file": "transparency",
+      "mode": "target_1048576",
+      "before": 13802,
+      "after": 11210,
+      "met": true,
+      "attempts": 1
+    },
+    {
+      "file": "compressed",
+      "mode": "HIGH",
+      "before": 17962,
+      "after": 10674,
+      "met": true,
+      "attempts": 1
+    },
+    {
+      "file": "compressed",
+      "mode": "MEDIUM",
+      "before": 17962,
+      "after": 10674,
+      "met": true,
+      "attempts": 1
+    },
+    {
+      "file": "compressed",
+      "mode": "LOW",
+      "before": 17962,
+      "after": 10674,
+      "met": true,
+      "attempts": 1
+    },
+    {
+      "file": "compressed",
+      "mode": "target_512000",
+      "before": 17962,
+      "after": 17524,
+      "met": true,
+      "attempts": 1
+    },
+    {
+      "file": "compressed",
+      "mode": "target_1048576",
+      "before": 17962,
+      "after": 17524,
+      "met": true,
+      "attempts": 1
+    }
+  ],
+  "checks": [
+    "35 actual compression cases",
+    "text extraction equality",
+    "page count and MediaBox",
+    "PDF syntax and stream decode",
+    "21 rendered previews",
+    "encrypted/empty/corrupt/signed rejection",
+    "unmet target refused",
+    "copy conflict uniqueness",
+    "atomic overwrite",
+    "source modification refusal",
+    "cancellation",
+    "missing output directory",
+    "locked replacement rollback (fault injection)",
+    "disk full (fault injection)",
+    "cache reuse"
+  ]
+}

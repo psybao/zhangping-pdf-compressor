@@ -1,0 +1,14 @@
+{
+  "name": "张平PDF压缩器",
+  "developer": "可达包",
+  "version": "1.0.0",
+  "qualities": {
+    "HIGH": {"label": "高品质", "dpi": 200, "jpeg_quality": 85, "diet_quality": 0.85},
+    "MEDIUM": {"label": "中品质", "dpi": 150, "jpeg_quality": 75, "diet_quality": 0.75},
+    "LOW": {"label": "低品质", "dpi": 96, "jpeg_quality": 60, "diet_quality": 0.60}
+  },
+  "units": {"KB": 1024, "MB": 1048576},
+  "suffix": "_compressed",
+  "max_attempts": 12,
+  "errors": {"encrypted": "加密 PDF 不支持压缩，请先使用密码在可信工具中解密", "signed": "数字签名 PDF 压缩会使签名失效，本版本为保护签名拒绝修改", "target": "未达目标体积", "cancelled": "已取消", "changed": "原文件已变化，请重新添加"}
+}

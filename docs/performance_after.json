@@ -1,0 +1,107 @@
+[
+  {
+    "file": "scan",
+    "target": null,
+    "seconds": 3.4138004999995246,
+    "attempts": 1,
+    "bytes": 1658118,
+    "met": true,
+    "functions": [
+      {
+        "function": "psnr",
+        "calls": 16,
+        "cumulative_seconds": 0.1333212
+      },
+      {
+        "function": "validate",
+        "calls": 1,
+        "cumulative_seconds": 0.0026415
+      },
+      {
+        "function": "fingerprint",
+        "calls": 2,
+        "cumulative_seconds": 0.06462290000000001
+      },
+      {
+        "function": "_encode_jpeg",
+        "calls": 6,
+        "cumulative_seconds": 0.21017450000000001
+      },
+      {
+        "function": "_encode_jp2",
+        "calls": 2,
+        "cumulative_seconds": 1.1236683
+      }
+    ]
+  },
+  {
+    "file": "scan",
+    "target": 2097152,
+    "seconds": 11.651139699999476,
+    "attempts": 3,
+    "bytes": 1658118,
+    "met": true,
+    "functions": [
+      {
+        "function": "psnr",
+        "calls": 34,
+        "cumulative_seconds": 0.40756970000000003
+      },
+      {
+        "function": "validate",
+        "calls": 3,
+        "cumulative_seconds": 0.034094400000000004
+      },
+      {
+        "function": "fingerprint",
+        "calls": 2,
+        "cumulative_seconds": 0.06618550000000001
+      },
+      {
+        "function": "_encode_jpeg",
+        "calls": 12,
+        "cumulative_seconds": 0.5818577
+      },
+      {
+        "function": "_encode_jp2",
+        "calls": 5,
+        "cumulative_seconds": 4.2530601
+      }
+    ]
+  },
+  {
+    "file": "mixed",
+    "target": 512000,
+    "seconds": 9.425629500000468,
+    "attempts": 4,
+    "bytes": 414396,
+    "met": true,
+    "functions": [
+      {
+        "function": "psnr",
+        "calls": 56,
+        "cumulative_seconds": 0.29782630000000004
+      },
+      {
+        "function": "validate",
+        "calls": 4,
+        "cumulative_seconds": 0.0342447
+      },
+      {
+        "function": "fingerprint",
+        "calls": 2,
+        "cumulative_seconds": 0.0643872
+      },
+      {
+        "function": "_encode_jpeg",
+        "calls": 18,
+        "cumulative_seconds": 0.35680090000000003
+      },
+      {
+        "function": "_encode_jp2",
+        "calls": 10,
+        "cumulative_seconds": 2.9088173000000004
+      }
+    ]
+  }
+]

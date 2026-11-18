@@ -1,0 +1,14 @@
+[
+  {
+    "version": "before",
+    "seconds": 6.169878900000185,
+    "bytes": 3288677,
+    "workers": 1
+  },
+  {
+    "version": "after",
+    "seconds": 3.929548199999772,
+    "bytes": 3288677,
+    "workers": 2
+  }
+]

@@ -1,0 +1,50 @@
+{
+  "passed": true,
+  "cases": 49,
+  "seconds": 0.02784319999955187,
+  "checks": [
+    "no complete compression",
+    "no PDF writes",
+    "no full-file hashing",
+    "quality and target modes",
+    "preview and range never exceed target",
+    "invalid PDF errors"
+  ],
+  "rows": [
+    {
+      "file": "text",
+      "bytes": 1406,
+      "estimated": 1
+    },
+    {
+      "file": "scan",
+      "bytes": 12806133,
+      "estimated": 1
+    },
+    {
+      "file": "mixed",
+      "bytes": 12806225,
+      "estimated": 1
+    },
+    {
+      "file": "large",
+      "bytes": 35266090,
+      "estimated": 1
+    },
+    {
+      "file": "multipage",
+      "bytes": 12808729,
+      "estimated": 1
+    },
+    {
+      "file": "transparency",
+      "bytes": 13802,
+      "estimated": 1
+    },
+    {
+      "file": "compressed",
+      "bytes": 17962,
+      "estimated": 1
+    }
+  ]
+}
